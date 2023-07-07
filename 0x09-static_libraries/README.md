@@ -1,1 +1,1 @@
-Static Libaries
+What are static libraries?
